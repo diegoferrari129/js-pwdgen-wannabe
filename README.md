@@ -25,6 +25,6 @@ Bonus: se volete potete dare uno stile alla pagina.
 <!-- scrivi sulla pagina nomecognomecolorepreferito23 -->
 - diachiara una variabile
 - dichiara un template literal
-- assegna le variabili: nome, cognome, colore e il numero 23 al template literal
+- assegna le variabili: nome, cognome, colore e la stringa 23 al template literal
 - crea un elemento con "id" all'interno del file index.html
 - assegna il contenuto delle variabili a l'elemento con "id"
